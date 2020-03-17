@@ -16,10 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * @program: cms_jd1911
- * @description: 权限控制器
- * @author: charles
- * @create: 2019-11-16 15:51
+ * 权限控制器
  **/
 @Validated
 @RestController
