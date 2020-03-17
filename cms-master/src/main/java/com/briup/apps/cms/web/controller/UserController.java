@@ -16,10 +16,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @program: cms_jd1911
- * @description: 用户控制器类
- * @author: charles
- * @create: 2019-11-15 14:41
+ * 用户控制器类
  **/
 @Validated
 @RestController
