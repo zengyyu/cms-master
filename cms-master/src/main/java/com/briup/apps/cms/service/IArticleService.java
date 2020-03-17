@@ -5,13 +5,7 @@ import com.briup.apps.cms.bean.extend.ArticleExtend;
 import com.briup.apps.cms.utils.CustomerException;
 
 import java.util.List;
-/** 
- * @Description:  
- * @Param:  
- * @return:  
- * @Author: charles 
- * @Date: 2019-11-12 
- */ 
+
 public interface IArticleService {
     /** 
      * @Description:
