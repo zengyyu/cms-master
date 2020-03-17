@@ -1,10 +1,7 @@
 package com.briup.apps.cms.vm;
 
 /**
- * @program: cms_jd1911
- * @description: 用户viewmodel类
- * @author: charles
- * @create: 2019-11-15 14:49
+ * 用户viewmodel类
  **/
 
 public class UserVM {
