@@ -5,10 +5,7 @@ import com.briup.apps.cms.bean.BasePrivilege;
 import java.util.List;
 
 /**
- * @program: cms_jd1911
- * @description: 权限树
- * @author: charles
- * @create: 2019-11-17 20:09
+ * 权限树
  **/
 
 public class PrivilegeTree extends BasePrivilege {
