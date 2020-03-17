@@ -6,10 +6,7 @@ import com.briup.apps.cms.bean.BaseUser;
 import java.util.List;
 
 /**
- * @program: cms_jd1911
- * @description: 用户拓展类
- * @author: charles
- * @create: 2019-11-15 15:08
+ * 用户拓展类
  **/
 
 public class BaseUserExtend extends BaseUser {
