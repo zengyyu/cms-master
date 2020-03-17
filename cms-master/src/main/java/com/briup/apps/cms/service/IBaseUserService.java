@@ -8,10 +8,7 @@ import com.briup.apps.cms.vm.UserVM;
 import java.util.List;
 
 /**
- * @program: cms_jd1911
- * @description: 用户接口
- * @author: charles
- * @create: 2019-11-15 15:17
+ * 用户接口
  **/
 
 public interface IBaseUserService {
