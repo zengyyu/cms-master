@@ -16,10 +16,7 @@ import javax.validation.constraints.NotNull;
 import java.util.List;
 
 /**
- * @program: cms_jd1911
- * @description: 文章控制器类
- * @author: charles
- * @create: 2019-11-12 10:22
+ * 文章控制器类
  **/
 @Validated
 @RestController
