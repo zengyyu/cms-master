@@ -7,10 +7,7 @@ import com.briup.apps.cms.bean.Comment;
 import java.util.List;
 
 /**
- * @program: cms_jd1911
- * @description: 文章拓展类
- * @author: charles
- * @create: 2019-11-12 10:26
+ *  文章拓展类
  **/
 public class ArticleExtend extends Article {
     public static final String STATUS_UNCHECK="未审核";
