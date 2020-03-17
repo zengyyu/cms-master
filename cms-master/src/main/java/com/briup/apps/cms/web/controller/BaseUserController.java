@@ -19,10 +19,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @program: cms_jd1911
- * @description: 用户基础控制器类
- * @author: charles
- * @create: 2019-11-16 16:23
+ * 用户基础控制器类
  **/
 @Validated
 @RestController
