@@ -47,9 +47,9 @@ public class Swagger2 {
 	
 	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder()
-				.title("xxx资讯管理云平台")
-				.description("昆山杰普软件科技有限公司，http://www.briup.com")
-				.termsOfServiceUrl("http://www.briup.com")
+				.title("博客系统")
+				.description("广西科技大学，http://www.gxust.edu.cn")
+				.termsOfServiceUrl("http://www.gxust.edu.cn")
 				.version("1.0")
 				.build();
 	}
