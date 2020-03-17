@@ -5,10 +5,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 /**
- * @program: app01
- * @description: 统一异常处理类
- * @author: charles
- * @create: 2019-03-13 21:03
+ *  统一异常处理类
  **/
 @RestControllerAdvice
 public class CustomerExceptionHandler {
