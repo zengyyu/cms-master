@@ -11,10 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * @program: cms_jd1911
- * @description: 测试controller
- * @author: charles
- * @create: 2019-11-11 11:35
+ * 测试controller
  **/
 @RestController
 @RequestMapping("/test")
