@@ -13,12 +13,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 
-/**
- * @program: cms_jd1911
- * @description:
- * @author: charles
- * @create: 2019-11-18 21:02
- **/
 
 public class JwtInterceptor extends HandlerInterceptorAdapter {
 
